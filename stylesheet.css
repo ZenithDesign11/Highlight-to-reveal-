@@ -1,0 +1,37 @@
+body {
+    background-color : #193d62;
+}
+
+.Title {
+    border-color: #EAD8B1;
+    border-style: double;
+    border-width: 20px;
+    background-color: #3A6D8C;
+    color : #EAD8B1;
+    text-align : center;
+    font-size : 3rem;
+    font-family: "Edu Australia VIC WA NT Hand Precursive",sans-serif;
+}
+
+.paragraph {
+    color : whitesmoke;
+    text-align: center;
+    font-family: "times new roman", serif;
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+.reveal{
+    font-size: 8rem;
+    font-weight: Bolder;
+    font-family: "Sour Gummy",sans-serif;
+    color : #193d62;
+    text-align: center;
+}
+
+.disclaimer {
+    font-size: 3rem;
+    color : #193d62;
+    text-align: end;
+}
+
